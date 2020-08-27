@@ -3,7 +3,7 @@ body {
 }
 
 .box {
-    background-color: whitesmoke;
+    background-color: white;
     min-height: 50px;
     padding: 10px;
     margin: 10px;
@@ -12,4 +12,13 @@ body {
 .navbar-brand {
     background-color: lightblue;
     padding: 8px;
+}
+
+/* h1 formatting */
+h1{
+    font: red;
+}
+
+h2{
+    text-align: center;
 }
