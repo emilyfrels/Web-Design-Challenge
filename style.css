@@ -16,9 +16,12 @@ body {
 
 /* h1 formatting */
 h1{
-    font: red;
-}
+    color: darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
 
 h2{
     text-align: center;
+    color: darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
