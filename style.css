@@ -9,9 +9,15 @@ body {
     margin: 10px;
 }
 
+/* nav formatting */
+
 .navbar-brand {
     background-color: lightblue;
     padding: 8px;
+}
+
+.navbar-nav {
+    margin-left: auto;
 }
 
 /* h1 formatting */
@@ -20,8 +26,21 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     }
 
+/* h2 formatting */
 h2{
-    text-align: center;
+    text-align: auto;
     color: darkslategray;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* image formatting */
+.image {
+    display: block;
+    margin-left: auto:
+    margin-right: auto;
+}
+
+.col-float {
+    flex: 50%;
+    padding: 5px;
 }
